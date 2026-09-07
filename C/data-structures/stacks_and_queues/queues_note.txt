@@ -1,0 +1,7 @@
+go through and differentiate the different codes here.
+//Whati think is here is
+- simple queue
+- a queue that overwrites (mistakenly labeled as a circular queue>?)
+- a deque...
+- what needs to be added is an actual circular queue (pretty much kjust removes add front, and remove rear from the dequeue)
+- also format everthing in the best way as a header file // class style for easy referencing on github
