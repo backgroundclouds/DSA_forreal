@@ -1,5 +1,5 @@
 // Standard insertion sort implementation. Best: O(n), Worst: O(n^2).
-//Based on the Wengrow's Python version of Insertion Sort in  Common Sense Algorithms - Chapter 6 // 
+//Based on Wengrow's Python version of Insertion Sort in  Common Sense Algorithms - Chapter 6 // 
 //Uses the gap anectdote, to be understpood
 
 #include <stdio.h>
