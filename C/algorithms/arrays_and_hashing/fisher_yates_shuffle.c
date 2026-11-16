@@ -23,7 +23,6 @@ void shuffle_array(int n, int array[]){
     }
 }
 
-
 int main(){
     int array[N] = {0};
     
