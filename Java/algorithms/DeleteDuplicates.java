@@ -1,4 +1,4 @@
-
+//HackerRank
 //Write a function "deleteDuplicates" that removes consecutive duplicate nodes in-place, retaining only the first node of each code. Return the head of the resulting list.
 import java.io.*; //wildcard
 
